@@ -1,4 +1,4 @@
-# party_dice
+# PartyDice
 
 A turn-based mobile game app that suggests random actions involving different body parts for two or more players.
 
