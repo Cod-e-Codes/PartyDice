@@ -1,30 +1,46 @@
 # PartyDice
 
-A turn-based mobile game app that suggests random actions involving different body parts for two or more players.
+PartyDice is a turn-based mobile game app that suggests random actions involving different body parts for two or more players.
+
+## Overview
+
+PartyDice is a fun and interactive game designed for social gatherings, parties, or casual get-togethers. It provides a simple yet entertaining way for players to engage with each other through random actions.
+
+## Features
+
+- **Random Actions**: Players take turns rolling a virtual dice, which suggests random actions involving different body parts.
+- **Turn-based Gameplay**: Each player's turn is indicated, and the target player for the action is randomized.
+- **Customizable Settings**: Players can customize their names, genders, and colors to personalize their gaming experience.
+- **Feedback Form**: A built-in feedback form allows players to provide feedback or suggestions for improving the game.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
+This project is a Flutter application, making it cross-platform and easy to set up for development. Follow these steps to get started:
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository**: `git clone https://github.com/your-username/PartyDice.git`
+2. **Navigate to the Project Directory**: `cd PartyDice`
+3. **Install Dependencies**: `flutter pub get`
+4. **Run the App**: `flutter run`
 
-## Assets
+For more detailed instructions on Flutter development, refer to the [Flutter documentation](https://flutter.dev/docs).
 
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
+## Screenshots
 
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
-## Localization
+## How to Play
 
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
+1. **Add Players**: Enter the names and select genders for each player participating in the game.
+2. **Roll the Dice**: Tap the "Roll Dice" button to start the game. The dice will suggest a random action involving different body parts for the current player to perform on another player.
+3. **Follow the Instructions**: Perform the action indicated by the dice on the target player's chosen body part.
+4. **Switch Players**: After completing the action, pass the device to the next player by tapping the "Roll Dice" button again. The game will automatically select a new target player for the next turn.
+5. **Have Fun!**: Enjoy the game and have fun with your friends!
 
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+## Contributing
+
+Contributions are welcome! If you have any ideas for new features, improvements, or bug fixes, feel free to submit a pull request or open an issue.
+
+## License
+
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for details.
