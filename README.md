@@ -1,6 +1,6 @@
 # party_dice
 
-A new Flutter project.
+A turn-based mobile game app that suggests random actions involving different body parts for two or more players.
 
 ## Getting Started
 
