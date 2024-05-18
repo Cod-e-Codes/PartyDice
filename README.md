@@ -30,8 +30,8 @@ For more detailed instructions on Flutter development, refer to the [Flutter doc
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](assets/screenshot1.png)
+![Screenshot 2](assets/screenshot2.png)
 
 ## How to Play
 
