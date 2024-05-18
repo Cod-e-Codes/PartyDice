@@ -17,10 +17,14 @@ PartyDice is a fun and interactive game designed for social gatherings, parties,
 
 This project is a Flutter application, making it cross-platform and easy to set up for development. Follow these steps to get started:
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/PartyDice.git`
-2. **Navigate to the Project Directory**: `cd PartyDice`
-3. **Install Dependencies**: `flutter pub get`
-4. **Run the App**: `flutter run`
+1. **Clone the Repository**:
+`git clone https://github.com/Coyoteranger/PartyDice.git`
+3. **Navigate to the Project Directory**:
+`cd PartyDice`
+5. **Install Dependencies**:
+`flutter pub get`
+7. **Run the App**:
+`flutter run`
 
 For more detailed instructions on Flutter development, refer to the [Flutter documentation](https://flutter.dev/docs).
 
