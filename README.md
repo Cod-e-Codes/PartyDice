@@ -1,16 +1,98 @@
-# neubrutalism_party_dice
 
-Party Dice Game
+# PartyDice 🎲
 
-## Getting Started
+PartyDice is a fun and interactive game designed for parties and group activities. Built with Flutter, this app provides exciting gameplay, engaging animations, and a store to enhance your experience.
 
-This project is a starting point for a Flutter application.
+## Screenshots 📸
 
-A few resources to get you started if this is your first Flutter project:
+Here are some screenshots of PartyDice:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Login Screen**
+   ![Login Screen](./image1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Player Setup**
+   ![Player Setup](./image2.png)
+
+3. **Gameplay Screen**
+   ![Gameplay Screen](./image3.png)
+
+4. **Roll History**
+   ![Roll History](./image4.png)
+
+*(Add more screenshots if needed)*
+
+## Features ✨
+
+- **User Authentication**: Login and signup features to create and save player profiles.
+- **Customizable Gameplay**: Players can add, edit, and remove their profiles before starting a game.
+- **Turn-based Fun**: Each player takes turns performing tasks or challenges assigned by the dice rolls.
+- **Roll History**: Keeps track of the tasks and challenges completed during gameplay.
+- **In-App Store**: Purchase additional features or themes to enhance the game (not shown in screenshots).
+- **Dynamic Animations**: Engaging animations for smooth transitions between screens and actions.
+
+## File Structure 📂
+
+```plaintext
+lib/
+├── firebase_options.dart         # Firebase configuration options
+├── main.dart                     # Application entry point
+├── models/
+│   └── player.dart               # Player data model
+├── screens/
+│   ├── gameplay_screen.dart      # Core gameplay functionality
+│   ├── login_screen.dart         # User login interface
+│   ├── party_dice_screen.dart    # Player setup and gameplay preparation
+│   └── store_screen.dart         # In-app store interface
+├── widgets/
+│   ├── animated_button.dart      # Custom animated button widget
+│   ├── gender_selection.dart     # Gender selection widget
+│   └── player_card.dart          # Player card widget
+```
+
+## How to Play 🎮
+
+1. **Login/Sign Up**: Create or log in to your account.
+2. **Add Players**: Select a gender, enter a name, and add at least two players to start the game.
+3. **Start Game**: Begin the gameplay and follow the instructions for your turn.
+4. **Track Progress**: View the roll history to see completed challenges.
+5. **Explore the Store**: Enhance your experience by purchasing additional features.
+
+## Getting Started 🚀
+
+### Prerequisites
+
+- Install [Flutter](https://flutter.dev/docs/get-started/install) on your system.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/cod-e-codes/PartyDice.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd PartyDice
+   ```
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+### Firebase Setup
+
+Ensure to configure Firebase in your project using the provided `firebase_options.dart` file.
+
+## Author 🖊️
+
+This app was developed by **CodēCodes**. Check out more of my projects on [GitHub](https://github.com/cod-e-codes).
+
+---
+
+Have fun and enjoy the PartyDice experience!
