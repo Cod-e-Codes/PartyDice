@@ -6,28 +6,22 @@ PartyDice is a fun and interactive game designed for parties and group activitie
 ## Screenshots 📸
 
 1. **Login Screen**  
-   ![Login Screen](./image1.png)  
-   The login screen allows users to sign in or create an account to save their game progress.
+   <img src="./image1.png" alt="Login Screen" width="300"/>
 
 2. **PartyDice Screen**  
-   ![PartyDice Screen](./image2.png)  
-   The main screen where users set up players and prepare for gameplay.
+   <img src="./image2.png" alt="PartyDice Screen" width="300"/>
 
 3. **Player Setup**  
-   ![Player Setup](./image3.png)  
-   Add players by selecting a gender, entering a name, and preparing the player list.
+   <img src="./image3.png" alt="Player Setup" width="300"/>
 
 4. **Help Screen**  
-   ![Help Screen](./image4.png)  
-   Displays instructions and requirements for playing the game.
+   <img src="./image4.png" alt="Help Screen" width="300"/>
 
 5. **Gameplay Screen (Player 1)**  
-   ![Gameplay Screen - Player 1](./image5.png)  
-   Shows Player 1's turn, the task assigned by the dice, and the current score.
+   <img src="./image5.png" alt="Gameplay Screen - Player 1" width="300"/>
 
 6. **Gameplay Screen (Player 2)**  
-   ![Gameplay Screen - Player 2](./image6.png)  
-   Shows Player 2's turn, their assigned task, and updated roll history.
+   <img src="./image6.png" alt="Gameplay Screen - Player 2" width="300"/>
 
 ## Features ✨
 
