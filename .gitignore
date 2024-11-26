@@ -45,3 +45,11 @@ app.*.map.json
 # Firebase files
 firebase.json
 lib/firebase_options.dart
+
+# Build folders
+android/
+ios/
+linux/
+macos/
+web/
+windows/
